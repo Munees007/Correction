@@ -1,9 +1,9 @@
 const cacheName = "Munees-Com-Shuffle Square-1.0";
 const contentToCache = [
-    "Build/correct2.loader.js",
-    "Build/correct2.framework.js.unityweb",
-    "Build/correct2.data.unityweb",
-    "Build/correct2.wasm.unityweb",
+    "Build/FinishWeb.loader.js",
+    "Build/FinishWeb.framework.js.unityweb",
+    "Build/FinishWeb.data.unityweb",
+    "Build/FinishWeb.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
